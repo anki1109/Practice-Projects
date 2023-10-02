@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+.title{
+ font-size: 30px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ font-weight: bold;
+}
+
+.arrowItemsContainer{
+  display:flex;
+  justify-items:center;
+  align-items: center;
+  padding:160px 0 0 280px;
+}
+
